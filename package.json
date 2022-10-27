@@ -1,0 +1,23 @@
+{
+  "name": "gura-botmd",
+  "version": "1.0.0",
+  "description": "Simple whatsapp bot with multi device.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Lexxy Official",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "colors": "^1.4.0",  
+    "chalk": "^4.1.2",
+    "clui": "^0.3.6",
+    "fluent-ffmpeg": "^2.1.2",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "2.6.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
